@@ -1,4 +1,4 @@
 # Hello-World
-Quite a noob coder;
-Come here for learning;
-Glad to meet you here!
+Quite a noob coder;/n
+Come here for learning;/n
+Glad to meet you here!/n
