@@ -1,2 +1,4 @@
 # Hello-World
-新手测试
+Quite a noob coder;
+Come here for learning;
+Glad to meet you here!
